@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="280" viewBox="0 0 1200 280">
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#051F20"/>
+      <stop offset="55%" stop-color="#163832"/>
+      <stop offset="100%" stop-color="#235347"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#background)"/>
+
+  <path d="M850 0 L1200 0 L1200 280 L1020 280 Z"
+        fill="#BEB69B" opacity="0.08"/>
+
+  <path d="M0 245 H1200"
+        stroke="#BEB69B" stroke-width="2" opacity="0.55"/>
+
+  <rect x="70" y="65" width="7" height="145" fill="#BEB69B"/>
+
+  <text x="105" y="112"
+        fill="#DAF1DE"
+        font-family="Arial, sans-serif"
+        font-size="49"
+        font-weight="700">
+    Humera Shaikh
+  </text>
+
+  <text x="108" y="163"
+        fill="#BEB69B"
+        font-family="Arial, sans-serif"
+        font-size="27"
+        font-weight="600">
+    Aspiring Machine Learning Engineer
+  </text>
+
+  <text x="108" y="205"
+        fill="#DAF1DE"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    Python  |  Machine Learning  |  NLP  |  MLOps
+  </text>
+
+  <text x="108" y="260"
+        fill="#DAF1DE"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        letter-spacing="2">
+    LEARN. BUILD. IMPROVE.
+  </text>
+
+</svg>
